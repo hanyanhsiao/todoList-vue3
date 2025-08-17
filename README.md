@@ -27,7 +27,6 @@ npm install
 ```bash
 npm run dev
 ```
-啟動開發服務器，通常在 http://localhost:5173
 
 ### 構建項目
 ```bash
